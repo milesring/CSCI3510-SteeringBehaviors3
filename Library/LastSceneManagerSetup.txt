@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/SteeringBehaviors3.unity
+  isLoaded: 1
+  isActive: 1
